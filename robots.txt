@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-vzwdu8.phoenixcartographer.com/sitemap.xml
